@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chez00!
-- 👀 I’m interested in development in Python and C# of various Windows applications, from time to time I do web development in php :)
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in development in Python, C# and php :)
 
 <!---
 Chez00/Chez00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
